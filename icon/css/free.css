@@ -8944,6 +8944,13 @@ readers do not read off random characters that represent icons */
 .gi-twitter-square:before {
   content: "\f081";
 }
+.gi-square-x-twitter:before {
+	content: "\e61a";
+}
+
+.gi-x-twitter:before {
+	content: "\e61b";
+}
 
 .gi-r-project:before {
   content: "\f4f7";
